@@ -15,7 +15,7 @@
 
 📍 **Location:** Pune, India  
 📧 **Email:** hr@venturetech.co.in  
-🌐 **Website:** [https://venturetech.co.in](https://venturetech.co.in)  
+🌐 **Website:** [https://venturetechnologies.in](https://venturetechnologies.in)  
 
 ---
 
@@ -88,7 +88,7 @@
 
 📧 **Email:** hr@venturetech.co.in  
 🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/atharv-shinde-a456b2152/) 
-🌐 **Website:** [Venture Technologies](https://venturetech.co.in)  
+🌐 **Website:** [Venture Technologies](https://venturetechnologies.in)  
 
 <p align="center">
   <a href="mailto:hr@venturetech.co.in">
