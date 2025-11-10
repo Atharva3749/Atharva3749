@@ -14,7 +14,7 @@
 💡 Love to build **real-world AI applications**, work on **cutting-edge technology**, and explore **innovative business solutions**.  
 
 📍 **Location:** Pune, India  
-📧 **Email:** hr@venturetech.co.in  
+📧 **Email:** hr@venturetechnologies.in 
 🌐 **Website:** [https://venturetechnologies.in](https://venturetechnologies.in)  
 
 ---
