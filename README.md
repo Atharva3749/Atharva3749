@@ -10,7 +10,7 @@
 ## 🧠 About Me  
 
 👨‍💻 I’m a **Software Engineer, AI Researcher, and Entrepreneur**, passionate about designing **AI-driven systems** and **cloud-native solutions** that actually make a difference.  
-🚀 **Founder & CEO of Venture Technologies Pvt. Ltd.**, focused on building **intelligent, scalable, and impactful digital solutions**.  
+🚀 **Founder & CEO at Venture Technologies Pvt. Ltd.**, focused on building **intelligent, scalable, and impactful digital solutions**.  
 💡 I’m all about **transforming ideas into working products**, experimenting with **emerging tech**, and driving **innovation through AI & automation**.  
 
 📍 Pune, India  
